@@ -1,1 +1,1 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQzMHN5dnlsNTNnMjd3NGVrZDZqZDd2NXR4ejF5OTB3aGE5NjByMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n7xN8Tqaagpol3DkyF/giphy.gif" alt="GitHub Banner" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgwZm55cHcweWVuaXRra2h4MnNsamlncXF6azJhaTliNHMxOHh6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif" alt="GitHub Banner" width="100%" />
